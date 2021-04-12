@@ -1,10 +1,11 @@
 # Project 0 - Hello
+
 -------------
 
 ## Credits
 
-Author: Ethan Killen
-Contact: killen.ethan@gmail.com
+- Author: Ethan Killen
+- Contact: killen.ethan@gmail.com
 
 ## Overview
 
